@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(($TRUEKNOWL.EDGE + 128))
+echo $(($TRUEKNOWLEDGE + 128))
+
